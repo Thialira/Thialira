@@ -13,7 +13,7 @@ I'm passionate about cinema, series, animes, comics. Nerd lifestyle. 🦸‍♂�
 
 
 - 📍 From Recife
-- 💻 Software Analysis and Development Student.
+- 💻 Internet Systems Student.
 
 Reach me out 👇🏼
 
