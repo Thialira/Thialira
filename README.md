@@ -16,11 +16,9 @@ I'm passionate about cinema, series, animes, comics. Nerd lifestyle. 🦸‍♂�
 - 💻 Internet Systems Student.
 
 Reach me out 👇🏼
-
+<div 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-lira-526a0722/)](https://www.linkedin.com/in/thiago-lira-526a0722/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tjlira/)](https://www.instagram.com/tjlira/) 
-
-
-    <a href = "mailto: jefferson_tj@hotmail.com"> <img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tjlira/)](https://www.instagram.com/tjlira/)   
+ 
+  <a href = "mailto: jefferson_tj@hotmail.com"> <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
