@@ -19,5 +19,5 @@ Reach me out 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-lira-526a0722/)](https://www.linkedin.com/in/thiago-lira-526a0722/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tjlira/)](https://www.instagram.com/tjlira/) 
-<a href = "mailto: tjlira07@gmail.com"> <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "mailto: tjlira07@gmail.com"> <img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
