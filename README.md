@@ -21,3 +21,5 @@ Reach me out 👇🏼
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tjlira/)](https://www.instagram.com/tjlira/) 
 <a href = "mailto: tjlira07@gmail.com"> <img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+<a href = "mailto: jefferson_tj@hotmail.com"> <img height="20" src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
