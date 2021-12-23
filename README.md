@@ -2,7 +2,7 @@
 
 My name is Thiago Lira 🧒🇧🇷
 
-I am a Journalist, but today I am a Software Analysis and Development student. 💻👨‍💻
+I am a journalist, but today I am a student of the Internet Systems course.. 💻👨‍💻
 
 I’m passionate about learning new things and solve problems. Always open to new challenges and ready to face changes.
 I dream of being able to build something that can help people.
