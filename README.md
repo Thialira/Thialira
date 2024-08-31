@@ -6,7 +6,7 @@ I'm a journalist and I just graduated in Internet Systems.. 💻👨🏻‍💻
 
 I'm passionate about cinema, series, animes, comics. Nerd lifestyle. 🦸‍♂️
 
-### 📋 Dados no GitHub
+### 📋 Estatística do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thialira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### 🚀 Lingaugens Mais Usadas
